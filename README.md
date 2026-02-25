@@ -1,0 +1,2 @@
+# autonomous-adaptive-trading-via-self-supervised-learning
+**TITLE:** Autonomous Adaptive Trading via Self-Supervised Learning**DESCRIPTION:**  This innovation introduces an AI-driven trading system that employs self-supervised learning combined with reinforcement learning (RL) to enable real-time adaptation and decision-making. The system autonomously processes diverse data streams, identifies patterns, a
