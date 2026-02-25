@@ -1,0 +1,24 @@
+# Core dependencies
+pandas==2.1.3
+numpy==1.24.3
+ccxt==4.1.0
+firebase-admin==6.2.0
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Machine Learning
+scikit-learn==1.3.0
+torch==2.1.0
+gym==0.26.2
+stable-baselines3==2.0.0
+
+# Cloud & Async
+boto3==1.34.0
+aiohttp==3.9.1
+
+# Data Processing
+ta==0.10.2  # Technical Analysis
+scipy==1.11.3
+
+# Monitoring
+prometheus-client==0.18.0
